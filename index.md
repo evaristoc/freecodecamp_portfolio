@@ -21,7 +21,7 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 - First time evaluation of [**factors affecting the reach of FreeCodeCamp**](https://medium.freecodecamp.com/english-size-connectivity-and-campsites-factors-driving-the-use-of-free-code-camp-worldwide-3c9d4e2b8c17)
 - **Gitter chatrooms: characterization of its main social structure**; analysis of the activity of the users in those chatroom; previous examples of those analyses can be found at [this repository](https://github.com/evaristoc/fccgitterDataScience)
 - Several analyses evaluating [**curricular performance of FreeCodeCamp users**](https://medium.freecodecamp.com/algorithms-the-good-the-bad-and-the-ugly-e63db0a9cfb3); this analyses have been relevant for the organization of the new FreeCodeCamp curriculum; an example can be found [here](https://github.com/freeCodeCamp/CurriculumExpansion/issues/89#issuecomment-269218703)
-- Facebook: cross-sectional evaluation of the [**status of the City Groups**](https://gitter.im/FreeCodeCamp/DataScience?at=577a579264638562096df040) (Facebook is by default the rendezvous of the FreeCodeCamp external groups, or City Groups)
+- Facebook: cross-sectional evaluation of the **status of the City Groups** (Facebook is by default the rendezvous of the FreeCodeCamp external groups, or City Groups)
 - **New Developer Surveys**, [2016 Edition](https://github.com/freeCodeCamp/2016-new-coder-survey) and 2017 Edition (in progress): coordinating the participants from the Data Science Room, providing feedback for their work at that room or [Kaggle](https://www.kaggle.com/freecodecamp/2016-new-coder-survey-), and suggesting or elaborating some charts
 
 
@@ -34,6 +34,7 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 - SEO
 - Due to the domain FreeCodeCamp belongs, I have been also exploring the KPI's used in Learning Analytics
 - Currently also strengthening my knowledge in Recommender Systems
+- Data Mining (unsupervised, supervised); Machine Learning; Deep Learning
 
 ### Technologies of interest?
 
@@ -50,5 +51,11 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 - Google Analytics, Youtube Analytics, Discourse Dashboard, Medium Dashboard, Google Trends and free tools to compare traffic
 - Some API's I have been recently using: Google youtube, Google Maps; facebook's graph; Discourse (forum platform); twitter; Gitter (chat platform); medium; meetup
 
-### Other Activities
+### Other Projects
 
+**d3.js Charts**
+//LIST//
+
+[**list of FreeCodeCamp projects in [codepen](), after scraping (first project)**](http://ziplinesfcc.herokuapp.com/)
+
+[**articles in FreeCodeCamp medium**](https://medium.com/@ecccs_FCC)
