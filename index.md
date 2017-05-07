@@ -57,8 +57,11 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 
 - //LIST//
 
-[**list of FreeCodeCamp projects in [codepen](codepen.io)**](http://ziplinesfcc.herokuapp.com/)
+**list of FreeCodeCamp projects in [codepen](codepen.io)**
 
 - My first ever project. MEAN (Angular 1.x). Data obtained after an authorised scraping
+- To be found [here](http://ziplinesfcc.herokuapp.com/) - in Heroku free dyno; expect some idle time before completely loading
 
-[**articles in FreeCodeCamp medium**](https://medium.com/@ecccs_FCC)
+**articles in FreeCodeCamp medium**
+
+- Just visit my [list at medium](https://medium.com/@ecccs_FCC)
