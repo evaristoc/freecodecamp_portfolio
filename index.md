@@ -1,12 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to this page
 
-You can use the [editor on GitHub](https://github.com/evaristoc/freecodecamp_portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here a quick description of some of the things I have been doing while at FreeCodeCamp. This site is a temporary solution while working on a more customised project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How long and what I have been doing?
 
-### Markdown
+I joined FreeCodeCamp since 2015 as student in 2015 and in the same year I was invited to help with data analyses too. I keep supporting the group providing useful advices based on their data or external analyses, while keeping up my studies in web development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+For those analyses I have been using platform-specific tools as well as customised code by exploring existing API's.
+
+### Main topics of interests?
+
+- Online users
+- Information Retrieval, Text Mining, Text Analytics and Social Network Analysis
+- Social Media Analysis and Content Analysis
+- SEO
+- Currently also strengthening my knowledge in Recommender Systems
+
+### Technologies of interest?
+
+**Web Development Technologies**:
+
+- MEAN full stack (mongoDB, Express, Angular and nodejs)
+- d3.js and canvas
+
+**Data Analysis Technologies and Tools**:
+
+- python suites: pandas, scikit-learn, tensorflow, etc; also with relevant knowledge in R
+- training in PyShark (Databricks)
+- training in Cloudera technology (Hadoop, HBase, etc)
+- Google Analytics, Youtube Analytics, Discourse Dashboard, Medium Dashboard, Google Trends and free tools to compare traffic
+- Some API's I have been recently using: Google youtube, Google Maps; facebook's graph; Discourse (forum platform); twitter; Gitter (chat platform); medium; meetup
 
 ```markdown
 Syntax highlighted code block
