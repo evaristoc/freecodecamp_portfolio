@@ -23,6 +23,8 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 - Several analyses evaluating [**curricular performance of FreeCodeCamp users**](https://medium.freecodecamp.com/algorithms-the-good-the-bad-and-the-ugly-e63db0a9cfb3); this analyses have been relevant for the organization of the new FreeCodeCamp curriculum; an example can be found [here](https://github.com/freeCodeCamp/CurriculumExpansion/issues/89#issuecomment-269218703)
 - Facebook: cross-sectional evaluation of the **status of the City Groups** (Facebook is by default the rendezvous of the FreeCodeCamp external groups, or City Groups)
 - **New Developer Surveys**, [2016 Edition](https://github.com/freeCodeCamp/2016-new-coder-survey) and 2017 Edition (in progress): coordinating the participants from the Data Science Room, providing feedback for their work at that room or [Kaggle](https://www.kaggle.com/freecodecamp/2016-new-coder-survey-), and suggesting or elaborating some charts
+- **Organised analytical projects in the FreeCodeCamp's Data Science Room**, some of the results can be found summarised in [this article](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)
+- Semi-automated procedure for **summarising posts in the FreeCodeCamp's Data Science Room** (currently on-hold); see [this post](https://gitter.im/FreeCodeCamp/DataScience?at=571357f5548df1be102da00b) for an example
 
 
 ### Main topics of interests?
@@ -32,16 +34,11 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 - Social Media Analysis and Content Analysis
 - Mobility; use of technology by far-to-reach, deprived segments
 - SEO
-- Due to the domain FreeCodeCamp belongs, I have been also exploring the KPI's used in Learning Analytics
+- Because the domain FreeCodeCamp belongs, I have been also exploring the KPI's used in Learning Analytics
 - Currently also strengthening my knowledge in Recommender Systems
 - Data Mining (unsupervised, supervised); Machine Learning; Deep Learning
 
 ### Technologies of interest?
-
-**Web Development Technologies**:
-
-- MEAN full stack (mongoDB, Express, Angular (4) and nodejs)
-- d3.js and canvas
 
 **Data Analysis Technologies and Tools**:
 
@@ -50,12 +47,24 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 - training in Cloudera technology (Hadoop, HBase, etc)
 - Google Analytics, Youtube Analytics, Discourse Dashboard, Medium Dashboard, Google Trends and free tools to compare traffic
 - Some API's I have been recently using: Google youtube, Google Maps; facebook's graph; Discourse (forum platform); twitter; Gitter (chat platform); medium; meetup
+- exposure to other technologies such as selenium and elasticsearch
+
+**Web Development Technologies**:
+
+- MEAN full stack (mongoDB, Express, Angular (4) and nodejs)
+- d3.js and canvas
+- Javascript, Typescript
+
+**Programming**
+
+- preference for modular patterns to code in Javascript, nodejs and d3.js
+- knowledge of object oriented programming and design patterns; basic functional programming; basic reactive programming; basic map-reduce
 
 ### Other Projects
 
 **Studies**
 
-- Apart of FreeCodeCamp training and other courses you can find in my linkedin account, I am currently completing Specializations in Data Mining and Information Retrieval (University of Illinois/Coursera) and Recommender Systems (University of Minnesota/Coursera).
+- Apart of FreeCodeCamp training I keep permanently learning. Just to mention some, I am currently (2017) completing Specializations in Data Mining and Information Retrieval (University of Illinois/Coursera) and another in Recommender Systems (University of Minnesota/Coursera).
 
 **d3.js Charts**
 
