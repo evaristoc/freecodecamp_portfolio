@@ -53,6 +53,10 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 
 ### Other Projects
 
+**Studies**
+
+- Apart of FreeCodeCamp training and other courses you can find in my linkedin account, I am currently completing Specializations in Data Mining and Information Retrieval (University of Illinois/Coursera) and Recommender Systems (University of Minnesota/Coursera).
+
 **d3.js Charts**
 
 - //LIST//
@@ -60,7 +64,7 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 **list of FreeCodeCamp projects in [codepen](codepen.io)**
 
 - My first ever project. MEAN (Angular 1.x). Data obtained after an authorised scraping
-- To be found [here](http://ziplinesfcc.herokuapp.com/) - in Heroku free dyno; expect some idle time before completely loading
+- Project to be found [here](http://ziplinesfcc.herokuapp.com/) - NOTE: hosted by a Heroku free dyno; expect some idle time before completely loading
 
 **articles in FreeCodeCamp medium**
 
