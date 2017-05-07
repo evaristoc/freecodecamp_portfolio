@@ -54,9 +54,11 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 ### Other Projects
 
 **d3.js Charts**
+
 //LIST//
 
 [**list of FreeCodeCamp projects in [codepen](codepen.io)**](http://ziplinesfcc.herokuapp.com/)
+
 My first ever project. MEAN (Angular 1.x). Data obtained after an authorised scraping
 
 [**articles in FreeCodeCamp medium**](https://medium.com/@ecccs_FCC)
