@@ -21,10 +21,12 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 - First time evaluation of [**factors affecting the reach of FreeCodeCamp**](https://medium.freecodecamp.com/english-size-connectivity-and-campsites-factors-driving-the-use-of-free-code-camp-worldwide-3c9d4e2b8c17)
 - **Gitter chatrooms: characterization of its main social structure**; analysis of the activity of the users in those chatroom; previous examples of those analyses can be found at [this repository](https://github.com/evaristoc/fccgitterDataScience)
 - Several analyses evaluating [**curricular performance of FreeCodeCamp users**](https://medium.freecodecamp.com/algorithms-the-good-the-bad-and-the-ugly-e63db0a9cfb3); this analyses have been relevant for the organization of the new FreeCodeCamp curriculum; an example can be found [here](https://github.com/freeCodeCamp/CurriculumExpansion/issues/89#issuecomment-269218703)
+- [**Analysis of reported NGO technological needs**](https://gitter.im/FreeCodeCamp/DataScience?at=57c086602a7bd0e920538d45), which coincided with FreeCodeCamp's decision to develop its flag project, Code for Good
 - Facebook: cross-sectional evaluation of the **status of the City Groups** (Facebook is by default the rendezvous of the FreeCodeCamp external groups, or City Groups)
 - **New Developer Surveys**, [2016 Edition](https://github.com/freeCodeCamp/2016-new-coder-survey) and 2017 Edition (in progress): coordinating the participants from the Data Science Room, providing feedback for their work at that room or [Kaggle](https://www.kaggle.com/freecodecamp/2016-new-coder-survey-), and suggesting or elaborating some charts
 - **Organised analytical projects in the FreeCodeCamp's Data Science Room**, some of the results can be found summarised in [this article](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)
 - Semi-automated procedure for **summarising posts in the FreeCodeCamp's Data Science Room** (currently on-hold); see [this post](https://gitter.im/FreeCodeCamp/DataScience?at=571357f5548df1be102da00b) for an example
+- Other analyses: estimations of attrition and retention of users; estimations of employability of FreeCodeCamp users 
 
 
 ### Main topics of interests?
