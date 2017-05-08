@@ -33,7 +33,7 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 
 - Online users and Online Behaviour Analysis; Online User Lifecycle
 - Information Retrieval, Text Mining, Text Analytics and Social Network Analysis
-- Social Media Analysis and Content Analysis
+- Social Media Analysis and Content Analysis; Information Formation and Transfer in social networks
 - Mobility; use of technology by far-to-reach, deprived segments
 - SEO
 - Because the domain FreeCodeCamp belongs, I have been also exploring the KPI's used in Learning Analytics
