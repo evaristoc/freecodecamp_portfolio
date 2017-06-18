@@ -70,7 +70,7 @@ During my time in FreeCodeCamp I have also been doing other analyses and activit
 
 **d3.js Charts**
 
-- //LIST//
+- Social Network Graph app for Gitter chatrooms (with Koustuv Sinha), https://www.youtube.com/watch?v=KM-VY4z_PLY
 
 **website project: list of FreeCodeCamp users' pens in [codepen](codepen.io)**
 
